@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera ,RestApi call</string>
+    <string name="user_name">xyz</string>
+    <string name="emai_id">abc@xyz.com</string>
+    <string name="image_button_text">selecte/capture a photo </string>
+    <string name="capital">Capital</string>
+    <string name="state">State</string>
+
+</resources>

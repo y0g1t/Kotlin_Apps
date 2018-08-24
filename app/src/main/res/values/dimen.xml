@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- button sizes -->
+    <dimen name="btn_txt_size">20dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <!--list item layout  -->
+    <dimen name="item_text_size">20dp</dimen>
+    <dimen name="item_marge">1dp</dimen>
+    <dimen name="padding_left">8dp</dimen>
+
+    <!---->
+    <dimen name="text_width">190dp</dimen>
+    <dimen name="marge_top">10dp</dimen>
+
+
+</resources>
